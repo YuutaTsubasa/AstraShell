@@ -1,0 +1,11 @@
+# Local CMake builds and deployed Qt runtimes
+/build*/
+
+# Source snapshots created before upgrades
+/backups/
+
+# Local IDE settings
+/.vs/
+/.qtcreator/
+*.user
+CMakeUserPresets.json
